@@ -9,10 +9,11 @@
 
 
     <TextView
+        android:id="@+id/score_label"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Hello World!"
+        android:text="Your score: 0 computer score: 0 "
         android:textAlignment="center" />
 
     <ImageView
@@ -34,7 +35,7 @@
 
             android:id="@+id/roll"
             style="?android:attr/buttonBarButtonStyle"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="Roll" />
@@ -42,7 +43,7 @@
         <Button
             android:id="@+id/hold"
             style="?android:attr/buttonBarButtonStyle"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="Hold" />
@@ -50,7 +51,7 @@
         <Button
             android:id="@+id/reset"
             style="?android:attr/buttonBarButtonStyle"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="Reset" />
