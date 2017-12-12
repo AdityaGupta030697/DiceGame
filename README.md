@@ -1,5 +1,7 @@
 # DiceGame
 
+This repository contains the code for the Google: Applied CS with Android course. This course revisits and implements concept from Data Structures and Algorithms as well as Artificial Intelligence.
+
 Scarne’s Dice is a turn-based dice game where players score points by rolling a die and then:
 
 - if they roll a 1, score no points and lose their turn
@@ -15,3 +17,5 @@ Let’s say they decide to roll again, and they get a 4. They now have the optio
 They decide to roll again, but get a 1. Getting a 1 makes the player lose all the points from their turn (so their score is the same as before their turn), and finishes their turn, allowing the second player to begin their turn.
 
 This goes on until one of the players reaches 100 points or more.
+
+
