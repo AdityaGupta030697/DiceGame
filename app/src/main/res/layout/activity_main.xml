@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Your score: 0 computer score: 0 "
+        android:text="Your score: 0\ncomputer score: 0 "
         android:textAlignment="center" />
 
     <ImageView
