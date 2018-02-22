@@ -18,4 +18,6 @@ They decide to roll again, but get a 1. Getting a 1 makes the player lose all th
 
 This goes on until one of the players reaches 100 points or more.
 
+<img src="https://github.com/AdityaGupta030697/DiceGame/blob/master/screenshots/Dice1.PNG" width="180"> <img src="https://github.com/AdityaGupta030697/DiceGame/blob/master/screenshots/Dice2.PNG" width="180">
+
 
