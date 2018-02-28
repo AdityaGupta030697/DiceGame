@@ -149,9 +149,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void win(int flag) {
         if (flag == 0) {
-            score.setText("YOU WON!!!!!");
+            score.setText(getBaseContext().getString(R.string.won));
         } else {
-            score.setText("COMPUTER WON!!!!");
+            score.setText(getBaseContext().getString(R.string.comp_won));
         }
         userChance();
 
